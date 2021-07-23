@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="org.omg.CORBA.NameValuePair.NameValuePair(__id,__value)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

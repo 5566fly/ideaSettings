@@ -1,0 +1,27 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="815" />
+    <option name="newTranslationDialogY" value="450" />
+    <histories>
+      <item value="System Log Aspect" />
+      <item value="Order" />
+      <item value="sign" />
+      <item value="Scheduling" />
+      <item value="Deferred Import Selector" />
+      <item value="@author Phillip Webb @author Andy Wilkinson @author Stephane Nicoll @author Madhura Bhave @since 1.3.0" />
+      <item value="default" />
+      <item value="ENABLED OVERRIDE PROPERTY" />
+      <item value="Enable auto-configuration of the Spring Application Context, attempting to guess and configure beans that you are likely to need. Auto-configuration classes are usually applied based on your classpath and what beans you have defined. For example, if you have {@code tomcat-embedded.jar} on your classpath you are likely to want a {@link TomcatServletWebServerFactory} (unless you have defined your own {@link ServletWebServerFactory} bean). &lt;p&gt; When using {@link SpringBootApplication @SpringBootApplication}, the auto-configuration of the context is automatically enabled and adding this annotation has therefore no additional effect. &lt;p&gt; Auto-configuration tries to be as intelligent as possible and will back-away as you define more of your own configuration. You can always manually {@link exclude()} any configuration that you never want to apply (use {@link excludeName()} if you don't have access to them). You can also exclude them via the {@code spring.autoconfigure.exclude} property. Auto-configuration is always applied after user-defined beans have been registered. &lt;p&gt; The package of the class that is annotated with {@code @EnableAutoConfiguration}, usually via {@code @SpringBootApplication}, has specific significance and is often used as a 'default'. For example, it will be used when scanning for {@code @Entity} classes. It is generally recommended that you place {@code @EnableAutoConfiguration} (if you're not using {@code @SpringBootApplication}) in a root package so that all sub-packages and classes can be searched. &lt;p&gt; Auto-configuration classes are regular Spring {@link Configuration @Configuration} beans. They are located using the {@link SpringFactoriesLoader} mechanism (keyed against this class). Generally auto-configuration beans are {@link Conditional @Conditional} beans (most often using {@link ConditionalOnClass @ConditionalOnClass} and {@link ConditionalOnMissingBean @ConditionalOnMissingBean} annotations). @author Phillip Webb @author Stephane Nicoll @since 1.0.0 @see ConditionalOnBean @see ConditionalOnMissingBean @see ConditionalOnClass @see AutoConfigureAfter @see SpringBootApplication" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="9" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1626774984663" />
+  </component>
+</application>
