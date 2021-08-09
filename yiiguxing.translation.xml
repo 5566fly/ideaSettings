@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="mapper-locations" />
+      <item value="default-statement-timeout:" />
+      <item value="call-setters-on-nulls" />
       <item value="Place of origin" />
       <item value="place Of Origin" />
       <item value="mailbox" />
@@ -32,8 +35,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="22" />
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="25" />
       </map>
     </option>
   </component>
