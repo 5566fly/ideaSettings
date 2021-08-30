@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="脱敏" />
       <item value="受限邮编" />
       <item value="INVALID DATE" />
       <item value="Failed to bind properties under 'spring.datasource.dynamic.datasource.master.type' to java.lang.Class&lt;javax.sql.DataSource&gt;: Property: spring.datasource.dynamic.datasource.master.type Value: com.alibaba.druid.pool.DruidDataSource Origin: &quot;spring.datasource.dynamic.datasource.master.type&quot; from property source &quot;applicationConfig: [classpath:application-dev.yml]&quot; Reason: No converter found capable of converting from type [java.lang.String] to type [java.lang.Class&lt;javax.sql.DataSource&gt;] Action: Update your application's configuration" />
@@ -49,8 +50,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="34" />
-        <entry key="ENGLISH" value="34" />
+        <entry key="CHINESE" value="35" />
+        <entry key="ENGLISH" value="35" />
         <entry key="BOSNIAN" value="1" />
       </map>
     </option>
