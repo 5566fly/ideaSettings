@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="terms" />
       <item value="脱敏" />
       <item value="受限邮编" />
       <item value="INVALID DATE" />
@@ -51,7 +52,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="35" />
+        <entry key="ENGLISH" value="36" />
         <entry key="BOSNIAN" value="1" />
       </map>
     </option>
