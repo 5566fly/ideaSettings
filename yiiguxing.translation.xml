@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="JSON parse error: Unrecognized token 'xinjiapo666': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false'); nested exception is com.fasterxml.jackson.databind.JsonMappingException: Unrecognized token 'xinjiapo666': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false')" />
+      <item value="through reference chain: com.yunlu.jandtvip.model.YunLuRequestJson[&quot;parameter&quot;])]" />
       <item value="万能验证码" />
       <item value="EDITEEMPLOYEECODE" />
       <item value="terms" />
@@ -53,8 +55,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="37" />
+        <entry key="ENGLISH" value="38" />
         <entry key="BOSNIAN" value="1" />
       </map>
     </option>
