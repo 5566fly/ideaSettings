@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="快递柜" />
+      <item value="Bearer" />
       <item value="Unauthorized" />
       <item value="An attempt was made to call a method that does not exist. The attempt was made from the following location: org.springframework.kafka.listener.KafkaMessageListenerContainer.&lt;clinit&gt;" />
       <item value="The certificate type or customs clearance certificate number cannot be empty&quot;" />
@@ -52,13 +54,11 @@
       <item value="Retention" />
       <item value="System Log Aspect" />
       <item value="Order" />
-      <item value="sign" />
-      <item value="Scheduling" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="CHINESE" value="46" />
+        <entry key="ENGLISH" value="46" />
         <entry key="BOSNIAN" value="1" />
       </map>
     </option>
