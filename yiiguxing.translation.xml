@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Subsist" />
       <item value="快递柜" />
       <item value="Bearer" />
       <item value="Unauthorized" />
@@ -53,12 +54,11 @@
       <item value="描述" />
       <item value="Retention" />
       <item value="System Log Aspect" />
-      <item value="Order" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="46" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="ENGLISH" value="47" />
         <entry key="BOSNIAN" value="1" />
       </map>
     </option>
