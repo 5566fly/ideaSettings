@@ -6,6 +6,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="setting" type="PLAIN_TEXT" />
+      <mapping ext="jasper" type="PLAIN_TEXT" />
       <mapping pattern="application" type="YAML" />
       <removed_mapping ext="java" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
