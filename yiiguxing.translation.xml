@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Cannot resolve" />
       <item value="Sucess" />
       <item value="Neither val is NaN, thisVal is smaller" />
       <item value="insuranceprice" />
@@ -53,7 +54,6 @@
       <item value="then Comparing" />
       <item value="comparing" />
       <item value="Comparator" />
-      <item value="partitioning" />
     </histories>
     <option name="languageScores">
       <map>
