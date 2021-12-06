@@ -94,6 +94,10 @@
           <option name="url" value="http://code.jms.com/yunlu-crs/yunlu-developer-document.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://code.jms.com/yunlu-crs/yl-crs-wish-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\01_GITLAB_idea\trunk" />
